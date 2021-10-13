@@ -1,0 +1,49 @@
+h1 {
+    color: red;
+}
+#p1 {
+    opacity: 50%;
+}
+h2 {
+    color: blue;
+    font-size: 30pt;
+}
+
+li {
+    background-color:blue ;
+    color: white;
+}
+
+tr {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 10pt;
+    vertical-align: bottom;
+    text-align: center;
+    padding: 1em;
+    background-color: #700c2c;
+    border: 5px solid #bd640b;
+}
+
+#p2 {
+    background-color: royalblue;
+    text-align:  center;
+    color: lightcyan;
+}
+
+.azul {
+    background-color: aqua;
+}
+
+a:link {
+    color: #006666;
+}
+
+a:visited {
+    color: #4df89c;
+}
+
+a:hover {
+    color: #290333;
+}
